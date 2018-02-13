@@ -7,7 +7,7 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp;
+package org.verapdf.com.adobe.xmp;
 
 /**
  * This exception wraps all errors that occur in the XMP Toolkit.

@@ -9,13 +9,13 @@
 
 
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
-import com.adobe.xmp.*;
-import com.adobe.xmp.impl.xpath.XMPPath;
-import com.adobe.xmp.impl.xpath.XMPPathParser;
-import com.adobe.xmp.options.PropertyOptions;
-import com.adobe.xmp.properties.XMPAliasInfo;
+import org.verapdf.com.adobe.xmp.*;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPath;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPathParser;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.properties.XMPAliasInfo;
 
 import java.util.Iterator;
 

@@ -1,10 +1,10 @@
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
-import com.adobe.xmp.*;
-import com.adobe.xmp.options.ParseOptions;
-import com.adobe.xmp.options.PropertyOptions;
-import com.adobe.xmp.options.SerializeOptions;
-import com.adobe.xmp.properties.XMPProperty;
+import org.verapdf.com.adobe.xmp.*;
+import org.verapdf.com.adobe.xmp.options.ParseOptions;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.options.SerializeOptions;
+import org.verapdf.com.adobe.xmp.properties.XMPProperty;
 
 import java.io.*;
 import java.util.ArrayList;

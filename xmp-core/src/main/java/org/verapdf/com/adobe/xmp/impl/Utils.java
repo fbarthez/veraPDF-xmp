@@ -7,10 +7,10 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 
-import com.adobe.xmp.XMPConst;
+import org.verapdf.com.adobe.xmp.XMPConst;
 
 
 /**

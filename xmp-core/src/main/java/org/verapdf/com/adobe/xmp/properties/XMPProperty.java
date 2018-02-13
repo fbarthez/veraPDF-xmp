@@ -7,10 +7,10 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.properties;
+package org.verapdf.com.adobe.xmp.properties;
 
-import com.adobe.xmp.XMPMeta;
-import com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.XMPMeta;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
 
 
 /**

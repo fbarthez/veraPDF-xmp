@@ -1,7 +1,7 @@
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
-import com.adobe.xmp.XMPMetaFactory;
-import com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.XMPMetaFactory;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -7,10 +7,10 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
-import com.adobe.xmp.*;
-import com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.*;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
 import org.w3c.dom.Attr;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;

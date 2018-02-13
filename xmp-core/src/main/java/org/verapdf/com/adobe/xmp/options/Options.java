@@ -7,13 +7,13 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.options;
+package org.verapdf.com.adobe.xmp.options;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.adobe.xmp.XMPError;
-import com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.XMPError;
+import org.verapdf.com.adobe.xmp.XMPException;
 
 /**
  * The base class for a collection of 32 flag bits. Individual flags are defined as enum value bit

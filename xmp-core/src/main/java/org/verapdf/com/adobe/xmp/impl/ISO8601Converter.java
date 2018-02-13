@@ -7,16 +7,16 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 import java.util.SimpleTimeZone;
 
-import com.adobe.xmp.XMPDateTime;
-import com.adobe.xmp.XMPError;
-import com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.XMPDateTime;
+import org.verapdf.com.adobe.xmp.XMPError;
+import org.verapdf.com.adobe.xmp.XMPException;
 
 
 /**

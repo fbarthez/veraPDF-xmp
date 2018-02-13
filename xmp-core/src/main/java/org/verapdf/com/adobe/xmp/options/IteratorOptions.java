@@ -7,7 +7,7 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.options;
+package org.verapdf.com.adobe.xmp.options;
 
 
 /**

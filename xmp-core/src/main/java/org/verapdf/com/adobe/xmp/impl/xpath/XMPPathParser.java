@@ -7,13 +7,13 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl.xpath;
+package org.verapdf.com.adobe.xmp.impl.xpath;
 
-import com.adobe.xmp.XMPError;
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.XMPMetaFactory;
-import com.adobe.xmp.impl.Utils;
-import com.adobe.xmp.properties.XMPAliasInfo;
+import org.verapdf.com.adobe.xmp.XMPError;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.XMPMetaFactory;
+import org.verapdf.com.adobe.xmp.impl.Utils;
+import org.verapdf.com.adobe.xmp.properties.XMPAliasInfo;
 
 
 /**

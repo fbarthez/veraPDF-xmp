@@ -7,7 +7,7 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -15,8 +15,8 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import com.adobe.xmp.XMPDateTime;
-import com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.XMPDateTime;
+import org.verapdf.com.adobe.xmp.XMPException;
 
 
 /**

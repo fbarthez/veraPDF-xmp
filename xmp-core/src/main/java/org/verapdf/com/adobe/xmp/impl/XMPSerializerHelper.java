@@ -7,14 +7,14 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.options.SerializeOptions;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.options.SerializeOptions;
 
 
 /**

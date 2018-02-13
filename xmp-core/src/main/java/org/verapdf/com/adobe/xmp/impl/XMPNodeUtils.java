@@ -7,13 +7,13 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
-import com.adobe.xmp.*;
-import com.adobe.xmp.impl.xpath.XMPPath;
-import com.adobe.xmp.impl.xpath.XMPPathSegment;
-import com.adobe.xmp.options.AliasOptions;
-import com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.*;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPath;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPathSegment;
+import org.verapdf.com.adobe.xmp.options.AliasOptions;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
 
 import java.util.GregorianCalendar;
 import java.util.Iterator;

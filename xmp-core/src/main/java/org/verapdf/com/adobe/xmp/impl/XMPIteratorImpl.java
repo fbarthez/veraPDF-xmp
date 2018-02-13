@@ -7,21 +7,21 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-import com.adobe.xmp.XMPError;
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.XMPIterator;
-import com.adobe.xmp.XMPMetaFactory;
-import com.adobe.xmp.impl.xpath.XMPPath;
-import com.adobe.xmp.impl.xpath.XMPPathParser;
-import com.adobe.xmp.options.IteratorOptions;
-import com.adobe.xmp.options.PropertyOptions;
-import com.adobe.xmp.properties.XMPPropertyInfo;
+import org.verapdf.com.adobe.xmp.XMPError;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.XMPIterator;
+import org.verapdf.com.adobe.xmp.XMPMetaFactory;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPath;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPathParser;
+import org.verapdf.com.adobe.xmp.options.IteratorOptions;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.properties.XMPPropertyInfo;
 
 
 /**

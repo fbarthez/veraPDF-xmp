@@ -7,7 +7,7 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -17,12 +17,12 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-import com.adobe.xmp.XMPConst;
-import com.adobe.xmp.XMPError;
-import com.adobe.xmp.XMPException;
-import com.adobe.xmp.XMPMeta;
-import com.adobe.xmp.XMPMetaFactory;
-import com.adobe.xmp.options.SerializeOptions;
+import org.verapdf.com.adobe.xmp.XMPConst;
+import org.verapdf.com.adobe.xmp.XMPError;
+import org.verapdf.com.adobe.xmp.XMPException;
+import org.verapdf.com.adobe.xmp.XMPMeta;
+import org.verapdf.com.adobe.xmp.XMPMetaFactory;
+import org.verapdf.com.adobe.xmp.options.SerializeOptions;
 
 
 /**

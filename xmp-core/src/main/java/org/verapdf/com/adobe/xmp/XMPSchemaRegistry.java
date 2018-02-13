@@ -7,11 +7,11 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp;
+package org.verapdf.com.adobe.xmp;
 
 import java.util.Map;
 
-import com.adobe.xmp.properties.XMPAliasInfo;
+import org.verapdf.com.adobe.xmp.properties.XMPAliasInfo;
 
 /**
  * The schema registry keeps track of all namespaces and aliases used in the XMP

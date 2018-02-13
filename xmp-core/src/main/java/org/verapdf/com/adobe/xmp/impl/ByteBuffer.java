@@ -9,7 +9,7 @@
 
 
 
-package com.adobe.xmp.impl;
+package org.verapdf.com.adobe.xmp.impl;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

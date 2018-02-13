@@ -7,11 +7,11 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp;
+package org.verapdf.com.adobe.xmp;
 
-import com.adobe.xmp.impl.Utils;
-import com.adobe.xmp.impl.xpath.XMPPath;
-import com.adobe.xmp.impl.xpath.XMPPathParser;
+import org.verapdf.com.adobe.xmp.impl.Utils;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPath;
+import org.verapdf.com.adobe.xmp.impl.xpath.XMPPathParser;
 
 /**
  * Utility services for the metadata object. It has only public static functions, you cannot create

@@ -7,12 +7,12 @@
 // of the Adobe license agreement accompanying it.
 // =================================================================================================
 
-package com.adobe.xmp;
+package org.verapdf.com.adobe.xmp;
 
-import com.adobe.xmp.impl.Base64;
-import com.adobe.xmp.impl.ISO8601Converter;
-import com.adobe.xmp.impl.XMPUtilsImpl;
-import com.adobe.xmp.options.PropertyOptions;
+import org.verapdf.com.adobe.xmp.impl.Base64;
+import org.verapdf.com.adobe.xmp.impl.ISO8601Converter;
+import org.verapdf.com.adobe.xmp.impl.XMPUtilsImpl;
+import org.verapdf.com.adobe.xmp.options.PropertyOptions;
 
 
 /**
