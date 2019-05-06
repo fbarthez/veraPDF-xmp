@@ -11,7 +11,7 @@
 
   <groupId>org.verapdf</groupId>
   <artifactId>verapdf-xmp</artifactId>
-  <version>0.12.0</version>
+  <version>0.12.0-HTG</version>
   <packaging>pom</packaging>
 
   <name>veraPDF PDF/A XMP Library</name>
